@@ -6,3 +6,9 @@ fix-bug
 
 commit --onenline
 
+## add new brach
+
+feature2
+
+feature3
+
